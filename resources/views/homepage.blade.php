@@ -6,27 +6,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Home Notas</title>
     <style>
-        /* Set background image */
+        
         body {
             background-image: url('https://static.vecteezy.com/system/resources/previews/001/540/938/original/light-blue-background-with-bubbles-vector.jpg');
-            background-size: 3000px; /* Adjust as needed */
-            background-position: center; /* Adjust as needed */
-            /* Optionally, you can add more styles to customize*/
+            background-size: 3000px; 
+            background-position: center; 
+            
             
         }
         
         .content {
             padding: 20px;
-            font-size: 40px; /* Set heading font size */
+            font-size: 40px; 
             color: white;
-            text-align: center; /* Center align text */
-            /* Optionally, you can add more styles to customize */
+            text-align: center; 
         }
         .button {
             display: inline-block;
             padding: 15px 30px;
-            font-size: 24px; /* Set button font size */
-            background-color: #007bff; /* Blue color */
+            font-size: 24px; 
+            background-color: #007bff; 
             color: white;
             text-decoration: none;
             border: none;
